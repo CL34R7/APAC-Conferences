@@ -1,134 +1,294 @@
-# Asia-Pacific-Infosec-Conferences
-Below is a list of infosec / hacking conferences in Asia Pacific organised by month and region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
+# 🛡️ Asia-Pacific-Infosec-Conferences
+
+Below is a list of infosec / hacking conferences in Asia Pacific. The dated schedule is organised by year and month, and the directory is organised by region. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hakluke or codingo.
+
+Last Updated: 2026-07-07
 
 [![Twitter](https://img.shields.io/badge/twitter-@hakluke-blue.svg)](https://twitter.com/hakluke)
 [![Twitter](https://img.shields.io/badge/twitter-@codingo__-blue.svg)](https://twitter.com/codingo_)
+[![Twitter](https://img.shields.io/badge/twitter-@hellodanielting-blue.svg)](https://twitter.com/hellodanielting)
 
-# Conferences by Month
-| Month    | Location                           | Conference | Approx. Attendees* |
-|----------|------------------------------------|-------------|-------------|
-| February | Melbourne, Victoria, Australia    | [BSides Melbourne](https://www.bsidesmelbourne.com/) | Unknown - new conference, 150~ |
-| March    | Goa, India                         | [Nullcon](https://nullcon.net) | Unknown |
-| March    | Singapore, Singapore               | [Blackhat Asia](https://www.blackhat.com/asia-18/) | Unknown |
-| March    | Brisbane, Australia                | [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx) | Unknown |
-| March    | Canberra, ACT, Australia           | [BSides Canberra](http://www.bsidesau.com.au/) | 1950 + volunteers and speakers |
-| March    | Tokyo, Japan                       | [TechNet Tokyo](https://afceatokyo.org/technet/) | 600-1000 |
-| April    | Canberra, ACT, Australia           | [ACSC](https://acsc2018.com.au/) | ~1200 |
-| April | Brisbane, Queensland, Australia    | [CrikeyCon](https://www.crikeycon.com/) | ~800 |
-| April | Melbourne, Victoria, Australia    | [0xCC](https://www.0xcc.sh/) | Unknown - New Conference |
-| May      | Sunshine Coast, Queensland, Australia | [TuskCon](http://tuskcon.org/) | 30-40 |
-| May      | Singapore, Singapore               | [Infosec in the City](https://www.infosec-city.com/) | Unknown |
-| May      | Gold Coast, Queensland, Australia  | [AusCERT](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference) | 700 |
-| May      | Hong Kong, China                   | [REVULN](https://revuln.com) | Unknown |
-| May      | Perth, WA, Australia               | [WAHCKon](https://wahckon.org.au/) | Unknown |
-| June     | Melbourne, Australia               | [OzSecCon](https://ozseccon.com/) | ~250 |
-| June     | Brisbane, Australia                | [BSides Brisbane](https://bsidesbrisbane.com/) | ~450 (New Conference) |
-| August   | Singapore, Singapore               | [HITB GSEC](https://gsec.hitb.org/) | Unknown |
-| September| Sydney, NSW, Australia             | [PlatypusCon](https://letsjusthackshit.org/) | ~200 |
-| September| Perth, WA, Australia               | [BSides Perth](https://bsidesperth.com.au/) | ~280 |
-| October  | Melbourne, Victoria, Australia     | [CyberConference - AISA](https://cyberconference.com.au/) | Unknown |
-| October  | Melbourne, Victoria, Australia     | [Ruxcon](https://ruxcon.org.au/) - Unconfirmed | Unknown |
-| October  | Christchurch, New Zealand          | [CHCon](https://2018.chcon.nz/) | Unknown |
-| October  | Indore, India                      | [Hakon India](http://www.hakonindia.org/) | Unknown |
-| October  | Perth, WA, Australia               | [ISACA SecureIT Conference](https://www.eventbrite.com.au/e/isaca-perth-secureit-conference-2018-tickets-46788136576#) |
-| October  | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
-| October  | Delhi, India     | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
-| October  | Kuala Lumpur, Malaysia             | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
-| November | Melbounre, Victoria, Australia     | [Security Influence & Trust Summit](https://sitempowers.com/) | ~100 |
-| November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
-| November | Wellington, New Zealand            | [Kiwicon](https://www.kiwicon.org/) | 2048 |
-| November | Melbourne, Australia               | [IoT Authentication](http://www.authiot2018.conferences.academy/) | Unknown |
-| November | Kathmandu, Nepal                   | [Threat Con](https://threatcon.io/) | Unknown |
-| December | Perth, Western Australia, Australia| [WACTF](https://capture.tf/) | ~200 |
-| December | Brisbane, Australia                | [Asiacrypt](https://asiacrypt.iacr.org/2018/) | Unknown |
-| December | Adelaide, South Australia, Australia | [Kangacrypt](https://kangacrypt.info) | Unknown - new conference |
+# 💾 Upcoming Conferences
 
-* Approximate number of attendees is forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctations year on year.
+Previous schedules are available in the [conference archive](archive.md).
 
-# Conferences by Region
+## 2026 ⤵️
 
-## Australia
+### 📅 August 2026
+
+<details open>
+<summary>View conferences</summary>
+
+| Date | Conference | Location | Approx. Attendees\* |
+| --- | --- | --- | --- |
+| 27 Aug 2026 | [Realms of Cyber 2026](https://www.realmsofcyber.com/) | Brisbane, QLD, Australia | Unknown |
+
+</details>
+
+### 📅 September 2026
+
+<details open>
+<summary>View conferences</summary>
+
+| Date | Conference | Location | Approx. Attendees\* |
+| --- | --- | --- | --- |
+| 4 - 10 Sep 2026 | [APNIC62](https://conference.apnic.net/62/index.html) | Mumbai, India | Unknown |
+| 12 Sep 2026 | [CSECcon V](https://utscyber.org/cseccon-ticket) | Sydney, NSW, Australia | Unknown |
+| 18-19 Sep 2026 | [Unprompted.au](https://www.unprompted.au/) | Sydney, NSW, Australia | Unknown |
+| 24-26 Sep 2026 | [BSides Canberra IX](https://www.bsidesau.com.au/) | Canberra, ACT, Australia | Unknown |
+
+</details>
+
+### 📅 October 2026
+
+<details open>
+<summary>View conferences</summary>
+
+| Date | Conference | Location | Approx. Attendees\* |
+| --- | --- | --- | --- |
+| 14-16 Oct 2026 | [Australian Cyber Conference 2026](https://melbourne2026.cyberconference.com.au/) | Melbourne, Victoria, Australia | 5,500+ |
+
+</details>
+
+### 📅 November 2026
+
+<details open>
+<summary>View conferences</summary>
+
+| Date | Conference | Location | Approx. Attendees\* |
+| --- | --- | --- | --- |
+| 07 Nov 2026 | [BSides Sydney 2026](https://www.bsides.sydney/copy-of-sarah) | Meadowbank, NSW, Australia | 500+ |
+| 13-14 Nov 2026 | [BSides Perth 2026](https://bsidesperth.com.au/) | Crawley, WA, Australia | Unknown |
+
+</details>
+
+<br>
+
+> Approximate attendee numbers are forecasted based on available tickets for a year, or the number of tickets sold in the previous year the event ran. Numbers may not be entirely accurate as there can be large fluctuations year on year.
+
+# 🌏 Conference Directory
+
+### 🇦🇺 Australia
+
+<details>
+<summary>View states and cities</summary>
+
 ### New South Wales
+
 #### Sydney
-- [PlatypusCon](https://letsjusthackshit.org/)
+
+- [BSides Sydney](http://bsidessydney.org/)
+- [CSECcon](http://cseccon.utscyber.org/)
+- [Hack Sydney](https://www.hack.sydney/)
+- [purplecon](https://purplecon.org/)
+- [RooCon](https://x.com/RooCon_AU)
+- [SCONES](https://scones.secso.cc/)
+- [SydneySec](https://aisasecuritydays.com.au/sydneysec)
+- [Unprompted.au](https://www.unprompted.au/)
 
 ### Victoria
+
+#### Ballarat
+
+- [BSides Ballarat](https://federation.edu.au/icsl/icsl-conferences/bsides-ballarat)
+
 #### Melbourne
-- [AISA Cybercon](https://cyberconference.com.au/)
+
 - [BSides Melbourne](https://www.bsidesmelbourne.com/)
-- [OzSecCon](https://ozseccon.com/)
-- [Ruxcon](https://ruxcon.org.au/) - Unconfirmed
 - [OWASP AppSec Day](https://appsecday.io/)
-- [IoT Authentication](http://www.authiot2018.conferences.academy/)
-- [CyberConference - AISA](https://cyberconference.com.au/)
-- [Security Influence & Trust Summit](https://sitempowers.com/)
 - [0xCC](https://www.0xcc.sh/)
-
-### Queensland
-#### Brisbane
-- [BrisSEC](https://www.aisa.org.au/Public/Events/Conferences/BrisSEC_2018/BrisSEC18.aspx)
-- [CrikeyCon](https://www.crikeycon.com/)
-- [Asiacrypt](https://asiacrypt.iacr.org/2018/)
-- [BSides Brisbane](https://bsidesbrisbane.com/)
-
-#### Sunshine Coast
-- [TuskCon](http://tuskcon.org/)
-
-#### Gold Coast
-- [AusCert](https://www.auscert.org.au/events/2018-05-29-auscert2018-17th-annual-auscert-cyber-security-conference)
-
-### ACT
-#### Canberra
-- [BSides Canberra](http://www.bsidesau.com.au/)
-- [ACSC](https://acsc2018.com.au/)
+- [COSAC](https://cosac.net/)
+- [Melbourne Kids Securiday](https://www.securiday.com/mel2025.html)
+- [MRE 2025](https://federation.edu.au/icsl/icsl-conferences/mre-2025)
+- [AISA CyberCon](https://cyberconference.com.au/)
 
 ### South Australia
+
 #### Adelaide
-- [Kangacrypt](https://kangacrypt.info)
+
+- [BSides Adelaide](https://www.bsidesadelaide.com.au/)
+
+### Tasmania
+
+#### Hobart
+
+- [Hobart Kids SecuriDay](https://www.securiday.com/hba2025.html/)
+
+### Queensland
+
+#### Brisbane
+
+- [BrisSEC](https://www.aisa.org.au/Public/Branches/Brisbane/Upcoming_Events.aspx)
+- [CrikeyCon](https://www.crikeycon.com/)
+- [BSides Brisbane](https://bsidesbrisbane.com/)
+- [Realms of Cyber](https://www.realmsofcyber.com/)
+
+#### Sunshine Coast
+
+- [SunCon](https://sunconqld.com/)
+
+#### Gold Coast
+
+- [AusCERT](https://auscert.org.au/category/events/events_conferences/)
+- [BSides Goldie](https://bsidesgoldie.com/)
+
+### ACT
+
+#### Canberra
+
+- [BSides Canberra](http://www.bsidesau.com.au/)
 
 ### Western Australia
-#### Perth
-- [BSides Perth](https://bsidesperth.com.au/)
-- [WACTF](https://capture.tf/)
-- [WAHCKon](https://wahckon.org.au/)
-- [ISACA SecureIT Conference](https://www.eventbrite.com.au/e/isaca-perth-secureit-conference-2018-tickets-46788136576#)
 
-## India
+#### Perth
+
+- [BSides Perth](https://bsidesperth.com.au/)
+
+### Remote
+
+- [ComfyCon](https://au.comfycon.rocks/)
+
+</details>
+
+### 🇮🇳 India
+
+<details>
+<summary>View states and cities</summary>
+
 ### Goa
+
 - [Nullcon](https://nullcon.net)
 
-### Indore
-- [Hakon](http://www.hakonindia.org/)
+### Kochi
+
+- [c0c0n](https://www.c0c0n.org/)
 
 ### Delhi
-- [Bsides Delhi](https://bsidesdelhi.in/)
 
-## New Zealand
+- [BSides Delhi](https://bsidesdelhi.in/)
+
+### Ahmedabad
+
+- [BSides Ahmedabad](https://www.bsidesahmedabad.in/)
+
+### Bangalore
+
+- [BSides Bangalore](https://bsidesbangalore.in/)
+
+</details>
+
+### 🇳🇿 New Zealand
+
+<details>
+<summary>View states and cities</summary>
+
 ### Wellington
-- [Kiwicon](https://www.kiwicon.org/)
-- [purplecon](https://purplecon.nz/#)
+
+- [Kawaiicon](https://kawaiicon.org/)
 
 ### Christchurch
-- [CHCon](https://2018.chcon.nz/)
 
-## Singapore
+- [CHCon](https://2022.chcon.nz/)
+
+</details>
+
+### 🇵🇭 Philippines
+
+<details>
+<summary>View states and cities</summary>
+
+### Manila
+
+- [PhilSecSummit](https://philsecsummit.com/)
+- [Dec{}de](https://decodeph.com/)
+
+### Tagaytay
+
+- [ROOTCON](https://www.rootcon.org/)
+
+</details>
+
+### 🇸🇬 Singapore
+
+<details>
+<summary>View states and cities</summary>
+
 ### Singapore
-- [Blackhat Asia](https://www.blackhat.com/asia-18/)
-- [HITB GSEC](https://gsec.hitb.org/)
-- [Infosec in the City](https://www.infosec-city.com/)
 
-## Japan
-### Tokyo
-[TechNet Tokyo](https://afceatokyo.org/technet/)
+- [Black Hat Asia](https://www.blackhat.com/)
+- [GeekCon](https://geekcon.top/)
+- [SINCON / Infosec in the City](https://www.infosec-city.com/)
 
-## Nepal
+</details>
+
+### 🇳🇵 Nepal
+
+<details>
+<summary>View states and cities</summary>
+
 ### Kathmandu
-[Threat Con](https://threatcon.io/)
 
-## China
-### Hong Kong
-- [REVULN](https://revuln.com)
+- [Threat Con](https://threatcon.io/)
 
-## Malaysia
+</details>
+
+### 🇲🇾 Malaysia
+
+<details>
+<summary>View states and cities</summary>
+
 ### Kuala Lumpur
+
 - [Nanosec Asia](https://www.nanosec.asia/)
+
+</details>
+
+### 🇰🇷 South Korea
+
+<details>
+<summary>View states and cities</summary>
+
+### Seoul
+
+- [TyphoonCon](https://typhooncon.com/?)
+- [POC](https://powerofcommunity.net/)
+
+</details>
+
+### 🇹🇼 Taiwan
+
+<details>
+<summary>View states and cities</summary>
+
+### Taipei
+
+- [HitCon](https://hitcon.org/)
+- [Cybersec 2025](https://cybersec.ithome.com.tw/)
+
+</details>
+
+# 🌐 Global Conferences that you might care about
+
+### RSA
+
+- 28/04/2025 - 01/05/2025 | [RSA San Francisco](https://www.rsaconference.com/)
+
+## Hacker Summer Camp
+
+### BSides Las Vegas
+
+- 04/08/2025 - 06/08/2025 | [BSides Las Vegas](https://bsideslv.org/)
+
+### Black Hat USA
+
+- 02/08/2025 - 07/08/2025 | [Black Hat USA](https://www.blackhat.com/upcoming.html#usa)
+
+### DEFCON
+
+- 07/08/2025 - 10/08/2025 | [DEFCON](https://defcon.org/)
+
+### OWASP
+
+- 26/05/2025 - 30/05/2025 | [OWASP Global AppSec EU](https://owasp.glueup.com/event/owasp-global-appsec-eu-2025-123983)
+- 03/11/2025 - 07/11/2025 | [OWASP Global AppSec Washington DC](https://owasp.org/events/)
+- 23/10/2025 - 24/10/2025 | [LASCON Austin, TX](https://lascon.org/)
